@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 cajas
 muebles
 insumos de jardin
+=======
+REVISADO
+>>>>>>> 0ffc47e0eb2bf8e89466d17d0e816c26023e138a
